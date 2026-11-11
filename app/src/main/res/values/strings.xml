@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">英语 MP3 精听</string>
+    <string name="now_playing">正在播放：%1$s</string>
+    <string name="lesson_meta">%1$s · %2$s</string>
+    <string name="add_collection">添加收藏</string>
+    <string name="save_to_collection">收藏字幕</string>
+    <string name="save">保存</string>
+    <string-array name="collection_types">
+        <item>单词</item>
+        <item>短语</item>
+        <item>句子</item>
+    </string-array>
+</resources>
